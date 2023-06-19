@@ -1,18 +1,18 @@
-# README
+# gb
 
 ## Description
 
-it is a readme file generator
+f
 
 ## Table of Contents
   
 ## Installation
 
-npm i
+d
 
 ## Usage
 
-use it
+s
 
 ## License
 
@@ -20,12 +20,13 @@ MIT
 
 ## Contributing
 
-none
+s
 
 ## Test
 
-ues
+s
 
 ## Questions
 
-If you have any questions please constact me at alison.siwek@gmail.com
+If you have any questions please constact me at sv
+You can also find me at [hg]

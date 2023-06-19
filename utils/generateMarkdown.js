@@ -57,7 +57,8 @@ ${data.test}
 
 ## Questions
 
-If you have any questions please constact me at alison.siwek@gmail.com
+If you have any questions please constact me at ${data.email}
+You can also find me at ${data.github} on github.
 `;
 }
 
