@@ -1,18 +1,18 @@
-# gb
+# README Generator
 
 ## Description
 
-f
+Generates a ReadMe file
 
 ## Table of Contents
   
 ## Installation
 
-d
+install it
 
 ## Usage
 
-s
+use it
 
 ## License
 
@@ -20,13 +20,13 @@ MIT
 
 ## Contributing
 
-s
+leave notes
 
 ## Test
 
-s
+none
 
 ## Questions
 
-If you have any questions please constact me at sv
-You can also find me at [hg]
+If you have any questions please constact me at alison.siwek@gmail.com
+You can also find me at acolao on github.
